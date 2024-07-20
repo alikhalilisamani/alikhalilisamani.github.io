@@ -1,4 +1,4 @@
 body{
   background-color: lightblue;
+  border-style: double;
 }
-p.double{border-style: double;}
