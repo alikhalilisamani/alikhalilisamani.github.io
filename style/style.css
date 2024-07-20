@@ -1,3 +1,4 @@
 body{
   background-color: lightblue;
 }
+p.double{border-style: double;}
